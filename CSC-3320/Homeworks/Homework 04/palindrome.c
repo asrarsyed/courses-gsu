@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Given a string s, write a function that returns true if it is a palindrome, or false otherwise.
   Limitations: Do not use extra memory space to store the characters of s.
 */

@@ -1,4 +1,3 @@
-; Student: Asrar Syed
 ; Class: CSC 3210
 ; Assignment #2 (Question 1)
 ; This program will compute (val3 + val4) - (val1 - val2) - ((30 * 4) / 8) for the EDX register.

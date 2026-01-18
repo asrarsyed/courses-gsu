@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 9 (Problem 1) - 9(a)
 
 .386

@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Take user input of 10 and increment based on a random array of 100
 */
 

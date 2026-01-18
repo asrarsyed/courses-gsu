@@ -11,6 +11,3 @@ This class provides a beginner-friendly exploration of the core concepts in comp
 | :-------: | :---: | :------: |
 | `Louis Henry` | `A-` | ![](https://skillicons.dev/icons?i=python) |
 </div>
-
-
-## Course Reflection

@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 2
 
 .386

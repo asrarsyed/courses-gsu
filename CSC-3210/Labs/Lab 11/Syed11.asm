@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 11 (Problem 1) - 11(a)
 
 .386 

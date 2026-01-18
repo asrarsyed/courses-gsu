@@ -1,4 +1,3 @@
-; Author: Asrar Syed
 ; Lab 4 (problem 1)
 
 .386

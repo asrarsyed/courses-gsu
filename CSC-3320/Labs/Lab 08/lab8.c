@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Reverse a range of elements in an array using pointers
 */
 

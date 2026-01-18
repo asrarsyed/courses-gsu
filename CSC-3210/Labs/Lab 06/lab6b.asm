@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 6 (Problem 2) - 6(b)
 
 .386

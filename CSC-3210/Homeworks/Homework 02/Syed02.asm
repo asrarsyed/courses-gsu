@@ -1,4 +1,3 @@
-; Student: Asrar Syed
 ; Class: CSC 3210
 ; Assignment #2 (Question 2)
 ; This program will compute -(val3 - val1) + (-val4 + val2) + 3 for the ECX register.

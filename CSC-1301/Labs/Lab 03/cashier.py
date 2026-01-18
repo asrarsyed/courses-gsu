@@ -1,6 +1,4 @@
 # Prolog
-# Author:  Arkmyst
-# Email:  asyed23@student.gsu.edu
 # Section: CSC 1301-002
 
 '''

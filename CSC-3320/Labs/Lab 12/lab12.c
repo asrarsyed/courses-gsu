@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Practice File Management in a C program
 */
 

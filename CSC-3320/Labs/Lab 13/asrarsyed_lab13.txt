@@ -1,7 +1,6 @@
 Script started on Fri 06 Dec 2024 11:40:21 PM EST
 [asyed23@gsuad.gsu.edu@snowball lab13]$ cat lab13.c
 /*
-  Author: Asrar Syed
   Program: Practice File Management and using fork() system call in a C Program
 */
 

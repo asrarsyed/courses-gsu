@@ -9,8 +9,5 @@ This course explores core data structures and algorithmic concepts essential to 
 
 | PROFESSOR | GRADE | LANGUAGE |
 | :-------: | :---: | :------: |
-| `S M Towhidul Islam` | `Waiting` | ![](https://skillicons.dev/icons?i=python) |
+| `S M Towhidul Islam` | `B-` | ![](https://skillicons.dev/icons?i=python) |
 </div>
-
-
-## Course Reflection

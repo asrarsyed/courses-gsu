@@ -1,7 +1,6 @@
 Script started on Wed 25 Sep 2024 10:45:55 PM EDT
 [asyed23@gsuad.gsu.edu@snowball lab4]$ cat lab4.c
 /*
-  Author: Asrar Syed
   Program: Temperature Converter
  	   Converts a Celsius temperature to its equivalent Fahrenheit temperature
 */

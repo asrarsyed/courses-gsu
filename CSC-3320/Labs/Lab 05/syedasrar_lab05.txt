@@ -1,7 +1,6 @@
 Script started on Wed 02 Oct 2024 11:56:07 PM EDT
 [asyed23@gsuad.gsu.edu@snowball lab5]$ cat lab5.c
 /*
-  Author: Asrar Syed
   Program: Print a One-Month Calendar
 */
 

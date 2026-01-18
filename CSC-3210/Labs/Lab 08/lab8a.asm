@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 8 (Problem 1) - 8(a)
 ; Summing an Array (SumArray.asm)
 

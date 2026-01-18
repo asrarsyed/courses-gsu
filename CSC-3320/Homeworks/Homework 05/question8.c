@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Linked List
 */
 

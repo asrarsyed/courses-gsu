@@ -1,5 +1,3 @@
-#   Author: Arkmyst
-#   Email: asyed23@student.gsu.edu
 #   CSCI 1301 – Section: 002
 #   Python Lab 9
 

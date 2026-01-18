@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 10 (Problem 1) - 10(a)
 
 

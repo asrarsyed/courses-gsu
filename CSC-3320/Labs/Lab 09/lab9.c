@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: A program that finds the “smallest” and “largest” words in a series of words.
 */
 

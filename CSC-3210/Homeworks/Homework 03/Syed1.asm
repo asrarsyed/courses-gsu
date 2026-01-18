@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Class: CSC 3210
 ; Assignment #3 (Question 1)
 ; This program will find the sum of the words in the data segment

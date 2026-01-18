@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Print a One-Month Calendar
 */
 

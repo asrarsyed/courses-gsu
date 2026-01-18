@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 7 (Problem 1) - 7(a)
 
 .386

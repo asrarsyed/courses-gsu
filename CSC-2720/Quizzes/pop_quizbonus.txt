@@ -1,5 +1,3 @@
-Author: Asrar Syed
-
 Output of the distances
 {
     '0': 8,

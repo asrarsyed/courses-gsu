@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Develop a C program to manage student grades in a class.
 */
 

@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Class: CSC 3210
 ; Assignment #3 (Question 2)
 ; This program is a translation of a if-else statement code to masm

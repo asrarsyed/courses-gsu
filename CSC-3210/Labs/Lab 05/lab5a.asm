@@ -1,4 +1,3 @@
-; Asrar Syed
 ; Lab 5 (Problem 1) - 5(a)
 
 .386

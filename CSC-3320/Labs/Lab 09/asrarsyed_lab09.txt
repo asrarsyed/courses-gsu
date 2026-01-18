@@ -1,7 +1,6 @@
 cript started on Wed 30 Oct 2024 11:25:38 PM EDT
 [asyed23@gsuad.gsu.edu@snowball lab9]$ cat lab9.c
 /*
-  Author: Asrar Syed
   Program: A program that finds the “smallest” and “largest” words in a series of words.
 */
 

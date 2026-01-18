@@ -1,7 +1,6 @@
 Script started on Wed 20 Nov 2024 11:16:09 PM EST
 [asyed23@gsuad.gsu.edu@snowball lab12]$ cat lab12.c
 /*
-  Author: Asrar Syed
   Program: Practice File Management in a C program
 */
 

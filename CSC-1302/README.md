@@ -11,6 +11,3 @@ In this class, we delve into the more advanced aspects of computer programming a
 | :-------: | :---: | :------: |
 | `Forough Ansari` | `A` | ![](https://skillicons.dev/icons?i=java) |
 </div>
-
-
-## Course Reflection

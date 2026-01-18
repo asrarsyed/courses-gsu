@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Create selection_sort method and sort an array and print it out
 */
 

@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Develop a C program to manage student grades in a class (like lab 10).
            Maintain the student structures in a linked list (instead of a fixed-sized array)
 */

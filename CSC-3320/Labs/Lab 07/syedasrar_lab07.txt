@@ -1,7 +1,6 @@
 Script started on Wed 16 Oct 2024 11:18:58 PM EDT
 [asyed23@gsuad.gsu.edu@snowball lab7]$ cat lab7.c
 /*
-  Author: Asrar Syed
   Program: Create selection_sort method and sort an array and print it out
 */
 

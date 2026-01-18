@@ -1,5 +1,4 @@
 /*
-  Author: Asrar Syed
   Program: Temperature Converter
            Converts a Celsius temperature to its equivalent Fahrenheit temperature!
 */

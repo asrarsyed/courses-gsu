@@ -1,4 +1,3 @@
-# Author: Asrar Syed
 # Course Section: CSC 2720-012
 
 from collections import deque

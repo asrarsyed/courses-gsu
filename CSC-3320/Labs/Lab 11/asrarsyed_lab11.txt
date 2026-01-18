@@ -1,7 +1,6 @@
 Script started on Wed 13 Nov 2024 11:30:10 PM EST
 [asyed23@gsuad.gsu.edu@snowball lab11]$ cat lab11.c
 /*
-  Author: Asrar Syed
   Program: Develop a C program to manage student grades in a class (like lab 10).
            Maintain the student structures in a linked list (instead of a fixed-sized array)
 */

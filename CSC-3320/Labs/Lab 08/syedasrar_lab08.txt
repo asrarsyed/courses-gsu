@@ -1,7 +1,6 @@
 Script started on Wed 23 Oct 2024 10:56:07 PM EDT
 [asyed23@gsuad.gsu.edu@snowball lab8]$ cat lab8.c
 /*
-  Author: Asrar Syed
   Program: Reverse a range of elements in an array using pointers
 */
 

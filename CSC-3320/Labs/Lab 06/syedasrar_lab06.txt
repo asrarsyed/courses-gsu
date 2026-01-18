@@ -1,7 +1,6 @@
 Script started on Wed 09 Oct 2024 09:56:31 PM EDT
 [asyed23@gsuad.gsu.edu@snowball lab6]$ cat lab6.c
 /*
-  Author: Asrar Syed
   Program: Take user input of 10 and increment based on a random array of 100
 */
 

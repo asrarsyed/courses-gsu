@@ -1,5 +1,3 @@
-#   Author: Arkmyst
-#   Email: asyed23@student.gsu.edu
 #   CSC 1301 – Section: 002
 #   Python Homework #04
 #   Due 11/07/2022 11.59 pm

@@ -1,4 +1,3 @@
-; Student: Asrar Syed
 ; Class: CSC 3210
 ; Assignment #2 (Question 3)
 ; This program will create an uninitialized array of DWORD elements being updated with various values.

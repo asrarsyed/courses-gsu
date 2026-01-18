@@ -9,11 +9,20 @@ This repository functions as a storage hub for the code I write during my comple
   
 |    SEMESTER   |        COURSE        |
 |:-------------:|:--------------------:|
-|  `Fall 2023`  | [CSC 1301](CSC-1301) |
+|  `Fall 2022`  | [CSC 1301](CSC-1301) |
 | `Summer 2023` | [CSC 1302](CSC-1302) |
 | `Spring 2024` | [CSC 3210](CSC-3210) |
 |  `Fall 2024`  | [CSC 2720](CSC-2720) |
 |  `Fall 2024`  | [CSC 3320](CSC-3320) |
+| `Spring 2025` | [CSC 3350](CSC-3350) |
+| `Spring 2025` | [CSC 4311](CSC-4311) |
+| `Spring 2025` | [CSC 4320](CSC-4320) |
+| `Spring 2025` | [CSC 4780](CSC-4780) |
+|  `Fall 2025`  | [CSC 4222](CSC-4222) |
+|  `Fall 2025`  | [CSC 4351](CSC-4351) |
+|  `Fall 2025`  | [CSC 4520](CSC-4520) |
+| `Spring 2026` | [CSC 4330](CSC-4330) |
+| `Spring 2026` | [CSC 4352](CSC-4352) |
 
 </div>
 
@@ -25,7 +34,7 @@ gsu-code
 ┗━ Course # Various GSU courses
    ┣━ Exams
    ┣━ Homeworks
-   ┣━ Lab Assignments
+   ┣━ Assignments
    ┣━ Projects
    ┃  ┗━ README.md # Explains the project
    ┗━ README.md # About the class & personal notes
